@@ -1,0 +1,31 @@
+/*
+body { 
+	background-image: url(i.jpg);
+}
+*/
+
+
+.head_title {
+position: absolute;
+left: 50%;
+width: 800px;
+margin-left: -400px;
+text-align: left;
+}
+
+.content {
+position: absolute;
+left: 50%;	
+width: 500px;
+height: 100px;
+margin-left: -250px;
+background-color: #E0FFFF;
+border-color: #000000;
+}
+
+
+.body {
+position: absolute;
+background-color: #E0FFFF;
+border-color: #000000;
+}
